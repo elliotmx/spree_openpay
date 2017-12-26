@@ -1,7 +1,7 @@
 Spree Openpay
 ============
 
-Add solidus_openpay to your Gemfile:
+Add spree_openpay to your Gemfile:
 
 ```ruby
 gem 'spree_openpay', github: 'elliotmx/spree_openpay', branch: 'master'
